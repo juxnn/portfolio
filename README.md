@@ -27,7 +27,7 @@
 ## 📌Projects
 ### 1. [Comnos(ERP System)](https://github.com/juxnn/project-erp)
 >ERP 시스템 (개인프로젝트)<br>
->개발기간: 2021.07.12 ~ 2021.08.21 (5주)
+>개발기간: 2021.07.12 ~ 2021.08.21 (6주)
 >
 >기술스택:<br>
 >Java 8 / Spring / MySQL / Javascript / Spring Security<br>
