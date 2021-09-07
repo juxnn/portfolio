@@ -30,7 +30,7 @@
 >개발기간: 2021.07.12 ~ 2021.08.21 (6주)
 >
 >기술스택:<br>
->Java 8 / Spring / MySQL / Javascript / Spring Security<br>
+>Java 8 / Spring / MySQL / Javascript / Spring Security<br><br>
 > 데모 링크: http://54.180.128.201/comnos/main/home <br>
 >[프로젝트 상세 설명](https://github.com/juxnn/project-erp) 참고
 
